@@ -99,7 +99,7 @@ readthedown <- function(fig_width = 8,
 html_dependency_readthedown <- function() {
   htmltools::htmlDependency(name = "readthedown",
                  version = "0.1",
-                 src = system.file("templates/readthedown-blue", package = "rmdformats"),
+                 src = system.file("templates/readthedown_blue", package = "rmdformats"),
                  script = "readthedown.js",
                  stylesheet = c("readthedown.css"))
 }
