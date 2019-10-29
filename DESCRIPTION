@@ -1,4 +1,4 @@
-Package: rmdformats
+Package: rmdformatstom
 Maintainer: Julien Barnier <julien.barnier@ens-lyon.fr>
 Authors@R: c(person("Julien", "Barnier", email="julien.barnier@ens-lyon.fr",
     role=c("aut","cre")))
